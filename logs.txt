@@ -1,0 +1,5 @@
+[ + ] Added Fuga Beatdown (4 Move)
+[ + ] Added Reverse Cursed Technique (5 Move)
+[ ~ ] Fixed Things
+
+Note: Awakening not ready
